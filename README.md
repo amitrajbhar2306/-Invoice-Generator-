@@ -125,7 +125,7 @@ invoice-frontend
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/amitrajbhar2306/Invoice-Generator.git
+[git clone https://github.com/amitrajbhar2306/Invoice-Generator.git](https://github.com/amitrajbhar2306/-Invoice-Generator-.git)
 ```
 
 ## 2. Navigate to Backend
