@@ -1,0 +1,67 @@
+.invoice-table{
+
+    width:100%;
+
+    margin-top:20px;
+
+    border-collapse:collapse;
+}
+
+.invoice-table th{
+
+    background:#1976d2;
+
+    color:white;
+
+    padding:12px;
+}
+
+.invoice-table td{
+
+    padding:10px;
+
+    border:1px solid #ddd;
+}
+
+.invoice-table input{
+
+    width:100%;
+
+    padding:8px;
+
+    border:1px solid #ccc;
+
+    border-radius:5px;
+}
+
+.add-btn{
+
+    margin-top:20px;
+
+    padding:12px 25px;
+
+    background:#1976d2;
+
+    color:white;
+
+    border:none;
+
+    border-radius:6px;
+
+    cursor:pointer;
+}
+
+.delete-btn{
+
+    background:#d32f2f;
+
+    color:white;
+
+    border:none;
+
+    padding:8px 12px;
+
+    border-radius:5px;
+
+    cursor:pointer;
+}
